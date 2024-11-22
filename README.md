@@ -10,13 +10,13 @@ Ollama voice chat is an interactive AI-powered personal assistant that leverages
    git clone https://github.com/thrive_spectrexq/ollamaxr.git
    cd ollamaxr
 
-3. **Install Dependencies:**
-  - Make sure you have Python 3.x installed. Then, install the required packages:
+2. **Installation:**
+  - Ensure [ollama](https://ollama.com/download) is installed and running on your system. Then, install the required python packages:
     
     ```bash
     pip install -r requirements.txt
 
-4. **How to run:**
+3. **How to run:**
    
     ```bash
     python app.py
