@@ -11,7 +11,8 @@ Ollama voice assistant is an interactive AI-powered personal assistant that leve
    cd ollamaxr
 
 2. **Installation:**
-  - Ensure [ollama](https://ollama.com/download) is installed and running on your system. Then, install the required python packages:
+  - Ensure [ollama](https://ollama.com/download) is installed and running on your system.
+  - Then, install the required python packages:
     
     ```bash
     pip install -r requirements.txt
