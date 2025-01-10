@@ -5,7 +5,7 @@ import speech_recognition as sr
 import configparser
 import sys
 
-# Initialize logging
+# Initialize logging here
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Load configuration
